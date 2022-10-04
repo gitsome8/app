@@ -16,4 +16,4 @@ jobs:
          git config --global user.email "gitsome8@gmail.com"
          git config --global user.name "gitsome8"
          git remote add cli git+ssh://git@push.clever-cloud.com/app_8ee35c4e-5d35-4518-b43c-a0d55a1562bc.git
-         git commit -am tod --allow-empty; git push -u origin main;
+         git commit -am todcok --allow-empty; git push -u origin main;
